@@ -58,3 +58,7 @@ In the short history we have (since 1999), we can observe loading on QMJ, but no
 Buffett's Alpha
 
 http://www.econ.yale.edu/~af227/pdf/Buffett%27s%20Alpha%20-%20Frazzini,%20Kabiller%20and%20Pedersen.pdf
+
+Factor Analysis in R
+
+http://www.calculatinginvestor.com/2011/04/19/fama-french-tutorial/
